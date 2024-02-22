@@ -1,0 +1,7 @@
+E:\ProjetosCSharp\faculProj\EX2\bin\Debug\EX2.exe.config
+E:\ProjetosCSharp\faculProj\EX2\bin\Debug\EX2.exe
+E:\ProjetosCSharp\faculProj\EX2\bin\Debug\EX2.pdb
+E:\ProjetosCSharp\faculProj\EX2\obj\Debug\EX2.csproj.AssemblyReference.cache
+E:\ProjetosCSharp\faculProj\EX2\obj\Debug\EX2.csproj.CoreCompileInputs.cache
+E:\ProjetosCSharp\faculProj\EX2\obj\Debug\EX2.exe
+E:\ProjetosCSharp\faculProj\EX2\obj\Debug\EX2.pdb
